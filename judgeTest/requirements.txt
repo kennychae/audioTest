@@ -1,0 +1,9 @@
+# --- Web Framework ---
+fastapi==0.115.0
+uvicorn[standard]==0.30.1
+
+# --- File upload (multipart/form-data) ---
+python-multipart==0.0.9
+
+# --- Models (if you later add request/response models) ---
+pydantic==2.8.2
